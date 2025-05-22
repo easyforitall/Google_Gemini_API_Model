@@ -24,4 +24,5 @@
   3) textwrap
   4) display
   5) markdown
+  6) PIL.Image
 
